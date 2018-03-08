@@ -6,5 +6,5 @@ gem "hashie"
 group :development do
   gem "pry"
   gem "hashie"
-  gem "sinatra"
+  gem "sinatra", "~> 1.4.4"
 end
